@@ -1,7 +1,7 @@
 # Starlink 13kb Game
 Help Elon Musk launch the Starlink satellite network! But be careful, place as many satellites you can without crashing and ruining everything!
 
-This little game was created for js13kGames, the JavaScript coding competition for HTML5 Game Developers.
+This little game was created for js13kGames, the JavaScript coding competition for HTML5 Game Developers. In the year 2021 the theme for the game was **SPACE**.
 
 ## Objectives and controls
 
